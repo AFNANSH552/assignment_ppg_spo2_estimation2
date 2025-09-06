@@ -530,6 +530,10 @@ def process_large_file(filepath, chunk_size=30*125):
 # Run specific test categories
 
 python src/preprocessing/ppg_preprocessing.py
+
+![Demo Image](https://drive.google.com/file/d/1qr1LejKkM0vaVF8BjpG95T7cfp8yKqbx/view?usp=sharing)
+
+
 python src/feature_extraction/ppg_feature_extraction.py
 python src/models/spo2_estimation.py
 
