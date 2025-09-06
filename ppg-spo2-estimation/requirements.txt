@@ -1,0 +1,31 @@
+# ========================
+# Core Scientific Libraries
+# ========================
+numpy
+scipy
+pandas
+
+# ========================
+# Machine Learning
+# ========================
+scikit-learn
+xgboost
+tensorflow
+joblib    # for model persistence
+
+# ========================
+# Visualization
+# ========================
+matplotlib
+seaborn
+plotly
+
+# ========================
+# Domain-Specific Libraries
+# ========================
+wfdb   # for PhysioNet datasets
+
+# ========================
+# Notes
+# ========================
+tkinter #is part of Python's standard library, not installed via pip
