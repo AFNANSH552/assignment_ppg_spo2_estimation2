@@ -80,6 +80,7 @@ python -c "import numpy, scipy, sklearn; print('Installation successful!')"
 python src/demo/demo_application.py
 
 ```
+![Project Logo](Feature extractiion test.png)
 
 Choose option 1 for the GUI demo, then:
 
